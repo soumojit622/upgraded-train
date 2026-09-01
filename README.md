@@ -16,6 +16,26 @@ The frontend communicates with the backend through the backend Kubernetes LoadBa
 
 ---
 
+## CI/CD Pipeline Screenshots
+
+### Frontend Pipelines
+
+#### Frontend CI
+![Frontend CI](https://drive.google.com/file/d/10KbdKAKVMtuXs8Fq8OMC2gQGqoLHirsp/view?usp=sharing)
+
+#### Frontend CD
+![Frontend CD](https://drive.google.com/file/d/1eKFWvd2RiNofsVB3WHbOEduZWRPZe1pf/view?usp=sharing)
+
+### Backend Pipelines
+
+#### Backend CI
+![Backend CI](https://drive.google.com/file/d/18-wMxd3peOzLwLj40vyL5mib7eeB0QvY/view?usp=sharing)
+
+#### Backend CD
+![Backend CD](https://drive.google.com/file/d/1erB7HcdkYR0Z2YgimruXX76aNbwvIxpu/view?usp=sharing)
+
+---
+
 ## GitHub Repository
 
 Public GitHub Repository:
