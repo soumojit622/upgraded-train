@@ -15,7 +15,11 @@ The application consists of:
 The frontend communicates with the backend through the backend Kubernetes LoadBalancer service.
 
 ---
+## Movie List Screenshot
 
+![Movie List](https://lh3.googleusercontent.com/d/1AATBHm-i5jdQ9b4AvaVOlNd8ccBfdy26)
+
+---
 ## CI/CD Pipeline Screenshots
 
 ### Frontend Pipelines
