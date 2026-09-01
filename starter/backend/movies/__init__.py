@@ -1,3 +1,4 @@
+# CI pipeline verification
 from flask import Blueprint
 from .resources import Movies
 
